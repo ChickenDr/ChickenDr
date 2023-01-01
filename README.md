@@ -1,9 +1,19 @@
 <div align=center>
-  <h1>🚽 DEV-DONG-SU</h1> 
+  <h1>🚽 DEV-DONG-SU</h1>
 </center>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhuisuv)](https://solved.ac/kimhuisuv)
+<div align=center>
+  <h1>Skill</h1>
+</center>
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhuisuv)](https://solved.ac/kimhuisuv)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dong-su&exclude_repo=Bob-Chin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
