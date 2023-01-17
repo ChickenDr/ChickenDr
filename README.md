@@ -43,6 +43,4 @@
 
 <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhuisuv"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dong-su&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-dong-su&show_icons=true&theme=transparent"/>  
  </div>
