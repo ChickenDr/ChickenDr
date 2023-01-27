@@ -2,11 +2,16 @@
   <h1>🚽 DEV-DONG-SU</h1>
 
 </br>
-
+</div>
 
 # [🗒️ Notion](https://www.notion.so/7bf728b233c943408c228b6f3158b86d)
 
-</br>
+### 😀 About Me.
+
+- **긍정적으로 생각하기 좋아하고 작은 일에서 행복을 찾는 삶을 좋아합니다.**
+- **사람과 운동을 좋아하고 좋은 개발자로 성장하는 방법에 궁금증이 많습니다.**
+- **클린한 코드를 작성하는 방법에 관심이 많고, 좋은 코드나 설계에 고민하는걸 좋아합니다.**
+- **나아가 이해하기 쉽고 변경과 확장에 유연하게 대응하는 코드를 작성하는 개발자가 되고 싶습니다.**
 
 # Skill
 
@@ -37,7 +42,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</div>
 
 </br>
 
