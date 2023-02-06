@@ -4,8 +4,6 @@
 </br>
 </div>
 
-# [🗒️ Notion](https://www.notion.so/7bf728b233c943408c228b6f3158b86d)
-
 ### 😀 About Me.
 
 - **긍정적으로 생각하기 좋아하고 작은 일에서 행복을 찾는 삶을 좋아합니다.**
