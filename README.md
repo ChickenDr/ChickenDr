@@ -45,7 +45,7 @@
 
 <div align=center>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhuisuv"/>  
-
-  ![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-dong-su&theme=monokai)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dong-su&layout=compact&theme=tokyonight)
 
 </div>
