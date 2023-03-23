@@ -4,6 +4,16 @@
 </br>
 </div>
 
+<div style="display: flex;">
+  
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhuisuv"/>  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dong-su&layout=compact&theme=tokyonight"/>
+ 
+</div>
+
+
+
 ### 😀 About Me.
 
 - **긍정적으로 생각하기 좋아하고 작은 일에서 행복을 찾는 삶을 좋아합니다.**
@@ -42,10 +52,3 @@
 
 
 </br>
-
-<div align=center>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhuisuv"/>  
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dong-su&layout=compact&theme=tokyonight)
-
-</div>
